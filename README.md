@@ -25,6 +25,4 @@ When I build, apply, or maintain any system that can affect human cognition, I s
 
 本项目采用 [Hippocratic License v3.0](https://firstdonoharm.dev/version/3/0/full.txt) 许可证。这是一个源于伦理的许可证，它确保了本作品及其衍生品不能被用于侵犯人权或破坏环境的用途。
 
-[![Hippocratic License HL3-FULL](https://img.shields.io/static/v1?label=Hippocratic%20License&message=HL3-FULL&labelColor=5e2751&color=bc8c3d)](https://firstdonoharm.dev/version/3/0/full.txt)
-
 This project is licensed under the [Hippocratic License v3.0](https://firstdonoharm.dev/version/3/0/full.txt). It is a License born from Ethics, specifically ensuring that this work and its derivatives cannot be used in ways that violate human rights or harm the environment.
