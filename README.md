@@ -10,7 +10,7 @@ In this repository, I hope to write an algorithm whose core purpose is to enhanc
 4. 伦理审查：我接受并倡导，任何基于此技术的重大应用，必须经过跨学科、多元化、公开的伦理审查，并将其结论置于商业利益之上。
 5. 持续警醒：我将视此誓言为我职业生涯的底色，永不停止对技术潜在影响的批判性思考，并为我的创造物所引发的一切可预见的后果承担责任。
 
-   When I build, apply, or maintain any system that can affect human cognition, I solemnly swear, with personal and professional dignity: 
+When I build, apply, or maintain any system that can affect human cognition, I solemnly swear, with personal and professional dignity: 
 1. Primary Loyalty: The ultimate interpretation and benefit of my algorithms belong to all humanity, and I will never cede them to any specific power, capital, or ideology. 
 2. Principle of Non-Harm: I will never allow my creations to be used for emotional manipulation, cognitive exploitation, addictive design, or any other purpose known to harm human mental autonomy and well-being. 
 3. Informed Consent: I will ensure maximum transparency of the system's operational mechanisms to users, guaranteeing that they can interact with the algorithm autonomously and with dignity, based on informed consent. 
