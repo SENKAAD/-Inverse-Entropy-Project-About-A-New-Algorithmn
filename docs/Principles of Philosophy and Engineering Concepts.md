@@ -18,6 +18,10 @@ PART Ⅰ THE PRINCIPLES OF PHILOSOPHY
 
 3.一个媒介存在多维度的符号意义，包括其内容及其本身的形制，无论其意义是易于注意还是容易忽略的，它都存在，并且可以通过人类现有的知识转述。
 
+4.人的注意力和认知资源是有限的，算法有责任辅助人优化其分配
+
+5.人拥有做出知情选择的权利，即使该选择可能不符合其"最佳利益"
+
 By dividing the world into self and other, the other becomes increasingly distinct and tangible, thereby heightening the urgency to establish the self and ultimately fostering its integrity and clarity. This algorithm endeavours to approximate the collective rational and emotional response of humanity to a given video (here employed as a representative example of all media for narrative convenience), thereby presenting users with a 'grand other' to maximise their well-being.
 
 However, this inevitably draws us into philosophical debates concerning "the nature of humanity" and "how to define user welfare" – discussions that prove detrimental to launching an engineering project. Therefore, we have selected only a few axioms about humanity and the world (some grounded in neurocognitive science, psychology, sociology, and ethics) to serve as the foundational purpose and ethical starting point for this algorithm. Concurrently, as society evolves, these axioms serving as algorithmic principles inevitably undergo change (though they often remain relatively constant). We must therefore maintain vigilance regarding their potential modification, addition, or deletion.
