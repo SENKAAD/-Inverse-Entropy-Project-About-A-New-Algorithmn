@@ -33,6 +33,10 @@ The axioms are as follows:
 2. Humans derive both transient gratification and enduring enrichment from media; this algorithm should solely pursue maximising the latter.
 
 3. Every medium possesses multidimensional symbolic meaning—encompassing both its content and its very form—whether readily apparent or subtly concealed. This meaning exists and can be articulated through existing human knowledge.
+   
+4. Human attention and cognitive resources are finite; algorithms bear the responsibility to assist individuals in optimising their allocation.
+   
+5. Individuals possess the right to make informed choices, even when such choices may not align with their "best interests".
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 第二部分：该算法工作的具体流程（以视频平台为例，初步构想）
 
